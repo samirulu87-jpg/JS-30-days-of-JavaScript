@@ -4,4 +4,4 @@
 -You will know more about how to use JavaScript to create and render data onto the screen\
 -A personal project, a weather project, and by the end of these sections you will include -your own night mode text modifier
 
-## This version holds the my personal code for the Assignments
+## This version holds the files for he assignment
